@@ -20,9 +20,9 @@ app.use("/auth", authRoutes)
 const PORT = 3001;
 mongoose
   .connect(process.env.MONGO_URL, {
-    // dbName: "Rent_Right",
-    useNewUrlParser:true,
-    useUnifiedTopology: true,
+    dbName: "Rent_Right",
+    // useNewUrlParser:true,
+    // useUnifiedTopology: true,
     
   })
   .then(() => {

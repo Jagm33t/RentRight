@@ -54,6 +54,7 @@ const RegisterPage = () => {
       console.log("Registration failed", err.message)
     }
   }
+  
 
   return (
     <div className="register">

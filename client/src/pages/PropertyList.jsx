@@ -30,6 +30,7 @@ const PropertyList = () => {
 
   useEffect(() => {
     getPropertyList()
+    
   }, [])
 
   return loading ? <Loader /> : (

@@ -35,6 +35,7 @@ const Listings = () => {
 
   useEffect(() => {
     getFeedListings();
+    
   }, [selectedCategory]);
 
   return (

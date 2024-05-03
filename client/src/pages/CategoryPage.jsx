@@ -34,6 +34,7 @@ const CategoryPage = () => {
 
   useEffect(() => {
     getFeedListings();
+    
   }, [category]);
 
   return loading ? (

@@ -113,14 +113,14 @@ const RegisterPage = () => {
           />
 
        <label htmlFor="image">
-            <img src="/assets/addImage.png" alt="add profile photo" />
+            <img src="/assets/addImage.png" alt="add profile" />
             <p>Upload Your Photo</p>
           </label> 
 
           {formData.profileImage && (
             <img
               src={URL.createObjectURL(formData.profileImage)}
-              alt="profile photo"
+              alt="profile"
               style={{ maxWidth: "80px" }}
             />
           )}

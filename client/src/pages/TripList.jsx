@@ -33,6 +33,7 @@ const TripList = () => {
 
   useEffect(() => {
     getTripList();
+    
   }, []);
 
   return loading ? (

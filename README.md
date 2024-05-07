@@ -1,6 +1,6 @@
-# Project Name
+# Rent Right
 
-A brief description of your project.
+Rent Right is a platform for people to view and post listings related to real estate. Users can browse through available properties, post their own listings, and interact with property details.
 
 ## Live Demo
 
@@ -14,13 +14,7 @@ Check out the live demo [here](https://master--jocular-empanada-a916f1.netlify.a
 - Material-UI: ^5.15.15
 - Emotion: ^11.11.4
 - Date-fns: ^3.6.0
-- Axios: (if you're using it)
 - Express: ^4.19.2 (for server)
-- MongoDB: (if you're using it)
+- MongoDB: 
 - etc.
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/yourrepository.git

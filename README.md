@@ -1,6 +1,6 @@
 # RentalRight: A Full Stack Home Rentals Application
 
-**Live Demo:** [RentalRight Live Demo](<link_to_live_demo>)
+**Check out the live demo** [here](https://master--jocular-empanada-a916f1.netlify.app/).
 
 ## Technologies Used
 

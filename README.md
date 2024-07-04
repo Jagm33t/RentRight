@@ -5,12 +5,12 @@
 ## Technologies Used
 
 ### Frontend:
-- React: ^18.2.0
-- Redux Toolkit: ^2.2.3
-- React Router Dom: ^6.22.3
-- Material-UI: ^5.15.15
-- Emotion: ^11.11.4
-- Date-fns: ^3.6.0
+- React
+- Redux Toolkit
+- React Router Dom
+- Material-UI
+- Emotion
+- Date-fns
 
 ### Backend:
 - Express: ^4.19.2

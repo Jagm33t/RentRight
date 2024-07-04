@@ -13,7 +13,7 @@
 - Date-fns
 
 ### Backend:
-- Express: ^4.19.2
+- Express
 - MongoDB
 
 ## Key Features
